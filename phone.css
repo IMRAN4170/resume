@@ -1,0 +1,30 @@
+/* body{
+    background-color: red;
+} */
+ /* .container.card{
+    flex-wrap: wrap;
+   
+} */
+.service{
+    
+    justify-content: center;
+    align-items: center;
+}
+   
+.service .row {
+    flex-wrap: wrap;
+    padding-left: 78px; 
+    justify-content: center;
+    
+}  
+.facility .row{
+    flex-wrap: wrap;
+    /* justify-content: center;
+    align-items: center; */
+}
+.profile-col{
+    padding: 34px;
+}
+.container.card{
+    font-size: 1rem;
+}
